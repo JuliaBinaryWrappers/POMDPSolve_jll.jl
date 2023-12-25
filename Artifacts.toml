@@ -1,0 +1,50 @@
+[[POMDPSolve]]
+arch = "aarch64"
+git-tree-sha1 = "72d5b2c5886a1bbdde6dad60861806d92bfbab48"
+os = "macos"
+
+    [[POMDPSolve.download]]
+    sha256 = "ffbd3edf43e187c92564c54f0555e2e8d8ab93840d2dde4a5fcb96d191e6f09a"
+    url = "https://github.com/JuliaBinaryWrappers/POMDPSolve_jll.jl/releases/download/POMDPSolve-v5.4.1+0/POMDPSolve.v5.4.1.aarch64-apple-darwin.tar.gz"
+[[POMDPSolve]]
+arch = "i686"
+git-tree-sha1 = "debf4aaff7368c5d80ea993939bd2e243e33c160"
+libc = "glibc"
+os = "linux"
+
+    [[POMDPSolve.download]]
+    sha256 = "d4655f9d630e2dc2d4e362a13134ec85dc8ea19e20cf10ec6512fbf2a62cd81a"
+    url = "https://github.com/JuliaBinaryWrappers/POMDPSolve_jll.jl/releases/download/POMDPSolve-v5.4.1+0/POMDPSolve.v5.4.1.i686-linux-gnu.tar.gz"
+[[POMDPSolve]]
+arch = "i686"
+git-tree-sha1 = "b275c1e48232d46647e8813041f2cfca07be2305"
+os = "windows"
+
+    [[POMDPSolve.download]]
+    sha256 = "51edabfce7b000fe0da17621acbd167fca5b506086892b35d3dde2c598af8d72"
+    url = "https://github.com/JuliaBinaryWrappers/POMDPSolve_jll.jl/releases/download/POMDPSolve-v5.4.1+0/POMDPSolve.v5.4.1.i686-w64-mingw32.tar.gz"
+[[POMDPSolve]]
+arch = "x86_64"
+git-tree-sha1 = "5966edd9439a28583fdd8c6ba7572db2cec2bf22"
+os = "macos"
+
+    [[POMDPSolve.download]]
+    sha256 = "09503913dc698d796bb913d9c58b8e9f31814bfd170c24903142ade3ad3b6b8b"
+    url = "https://github.com/JuliaBinaryWrappers/POMDPSolve_jll.jl/releases/download/POMDPSolve-v5.4.1+0/POMDPSolve.v5.4.1.x86_64-apple-darwin.tar.gz"
+[[POMDPSolve]]
+arch = "x86_64"
+git-tree-sha1 = "42abebe38cd0b6382cb1b8d082e0559b1eeabda0"
+libc = "glibc"
+os = "linux"
+
+    [[POMDPSolve.download]]
+    sha256 = "aa9367a6e4d3e80fab1c2e2892438ee5161c322587f464a5a26c66ff9dc55eb0"
+    url = "https://github.com/JuliaBinaryWrappers/POMDPSolve_jll.jl/releases/download/POMDPSolve-v5.4.1+0/POMDPSolve.v5.4.1.x86_64-linux-gnu.tar.gz"
+[[POMDPSolve]]
+arch = "x86_64"
+git-tree-sha1 = "0a30b90e54073844cf73fc9f06b205ab723a2b20"
+os = "windows"
+
+    [[POMDPSolve.download]]
+    sha256 = "cfaed466a5a9e9aa7d616a09abb1af07046156a154ecbc2cb8270c766f26ab84"
+    url = "https://github.com/JuliaBinaryWrappers/POMDPSolve_jll.jl/releases/download/POMDPSolve-v5.4.1+0/POMDPSolve.v5.4.1.x86_64-w64-mingw32.tar.gz"
